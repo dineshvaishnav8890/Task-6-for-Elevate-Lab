@@ -38,7 +38,7 @@ index.html
 
 ## 📸 Preview
 
-[Click here to view the live website 🔗](https://your-username.github.io/my-static-site)
+[Click here to view the live website 🔗](https://dineshvaishnav8890.github.io/Task-6-for-Elevate-Lab/)
 
 _Replace `your-username` with your actual GitHub username above._
 
